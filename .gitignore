@@ -1,2 +1,10 @@
 *.csv
 Vectorization.py
+vectorizer_model.h5
+balanced_df.pkl
+x_test.pkl
+x_train.pkl
+y_test.pkl
+x_val.pkl
+y_train.pkl
+y_val.pkl
